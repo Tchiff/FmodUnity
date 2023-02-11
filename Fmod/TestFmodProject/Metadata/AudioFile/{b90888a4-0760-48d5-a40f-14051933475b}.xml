@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b90888a4-0760-48d5-a40f-14051933475b}">
+		<property name="assetPath">
+			<value>weeknds-122592.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>208.9795918367347</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{59c4e1c1-4c3c-4e4a-b1cc-dbddd58cdd57}</destination>
+		</relationship>
+	</object>
+</objects>

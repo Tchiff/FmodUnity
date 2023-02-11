@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{4569d33d-de2d-4a27-b137-b03ac32f3529}">
+		<property name="assetPath">
+			<value>mixkit-hip-hop-02-738.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>115.01714285714286</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{59c4e1c1-4c3c-4e4a-b1cc-dbddd58cdd57}</destination>
+		</relationship>
+	</object>
+</objects>

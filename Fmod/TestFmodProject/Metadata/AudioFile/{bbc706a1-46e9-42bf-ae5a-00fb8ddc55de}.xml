@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{bbc706a1-46e9-42bf-ae5a-00fb8ddc55de}">
+		<property name="assetPath">
+			<value>mixkit-space-coin-win-notification-271.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>0.51197278911564625</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{59c4e1c1-4c3c-4e4a-b1cc-dbddd58cdd57}</destination>
+		</relationship>
+	</object>
+</objects>
